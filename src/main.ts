@@ -1,5 +1,5 @@
 import { createApp } from 'vue'
-import './style.css'
+import './styles/index.scss' // 引入全局样式表
 import App from './App.vue'
 
 createApp(App).mount('#app')
